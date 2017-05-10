@@ -4,10 +4,10 @@
 
 ## Indexe
 
-* [Introduction](#2)
-* [Développer avec une machinne virtuelle](#3)
-* [La machinne virtuelle de Drupal](#4)
-* [Les étapes d'installation](#5)
+* [Introduction](#introduction)
+* [Développer avec une machinne virtuelle](#développer-avec-une-machinne-virtuelle)
+* [La machinne virtuelle de Drupal](#la-machinne-virtuelle-de-drupal)
+* [Les étapes d'installation](#les-étapes-dinstallation)
 
 ## Introduction
 
@@ -32,6 +32,8 @@
  * etc.
  
 Apprendre à développer avec une machine virtuelle nécessite plus de compétences et de configurations, mais un coup maitrisser, des journées de travails peuvent être sauvés.
+
+De plus, une machine virtuelle vous facilite la configuration de votre vrai serveur, tel que [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-as-your-provider-in-vagrant-on-an-ubuntu-12-10-vps). 
  
 ## La machinne virtuelle de Drupal
  

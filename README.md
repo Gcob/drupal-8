@@ -2,17 +2,19 @@
 
 ## Indexe
 
-[Accueil](#1)
-* [Introduction](#2)
-* [Problématiques courantes du web](#3)
-* [Qu'est-ce qu'on voit dans ce repo](#4)
-* [Exigence et recommandations](#5)
+### [Accueil](#1)
+* [Introduction](#introduction)
+* [Problématiques courantes du web](#problématiques-courantes-du-web)
+* [Qu'est-ce qu'on voit dans ce repo](#quest-ce-quon-voit-dans-ce-repo)
+* [Exigence et recommandations](#exigence-et-recommandations)
 
-[La configuration du serveur](./config-serveur.md)
-* [Introduction](./documentation/config-serveur.md#2)
-* [Développer avec une machinne virtuelle](./documentation/config-serveur.md#3)
-* [La machinne virtuelle de Drupal](./documentation/config-serveur.md#4)
-* [Les étapes d'installation](./documentation/config-serveur.md#5)
+### [La configuration du serveur](./documentation/config-serveur.md)
+* [Introduction](./documentation/config-serveur.md#introduction)
+* [Développer avec une machinne virtuelle](./documentation/config-serveur.md#développer-avec-une-machinne-virtuelle)
+* [La machinne virtuelle de Drupal](./documentation/config-serveur.md#la-machinne-virtuelle-de-drupal)
+* [Les étapes d'installation](./documentation/config-serveur.md#les-étapes-dinstallation)
+
+### [Exporter et importer Drupal 8](./documentation/export-import.md)
 
 ## Introduction
 
